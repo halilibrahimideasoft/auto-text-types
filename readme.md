@@ -1,4 +1,4 @@
-## indirmeniz gereken son stabil sürüm: text-types-v2.zip
+## indirmeniz gereken son stabil sürüm: text-types v2.zip
 
 ### Dikkat Edilmesi Gerekenler
 - Bu eklenti tüm heading ve tex typelar tanımlandığında çalışmaktadır. (Bazı tasarımlar "-" koyabiliyor isim adlarına.)
